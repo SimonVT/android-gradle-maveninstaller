@@ -14,11 +14,13 @@ project1/*
 
 !project1/src/
 !project1/build.gradle
+!project1/gradle.properties
 
 !project2/
 project2/*
 
 !project2/src/
 !project2/build.gradle
+!project2/gradle.properties
 
 .DS_store
